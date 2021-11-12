@@ -1,9 +1,12 @@
 - 👋 Hi, I’m **@valentina-valentine**
-- 👀 I’m interested in software engineering, automation, and everything tech!
+- 👀 I’m interested in digital art, investing, automation, and everything tech!
 - 🌱 I’m currently working on:
   - Automation scripts using Python
-  - Mobile Applications using Java/Kotlin (next project will be using React Native)
-- :muscle: I'm currently learning cryptocurrency, 3D modeling/rigging/animation, and furthering my experience in current projects.       
+  - 3D NFT Art Project
+- :muscle: I'm currently learning:
+  - Finance, trading, and trend analysis within cryptocurrency
+  - 3D modeling/rigging/animation
+  - Furthering my experience in current projects.       
 - 💞️ I’m looking to collaborate on anything! More experience the better!
 - 📫 Reach me by emailing [lukejamesexton1995@gmail.com](mailto:lukejamesexton1995@gmail.com) :grin:
 <!---
